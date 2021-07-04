@@ -283,3 +283,7 @@ footer a {
 textarea, textarea:focus {
   font-size: 16px;
 }
+
+#title {
+  text-decoration: none
+}
